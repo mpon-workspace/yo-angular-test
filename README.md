@@ -1,2 +1,4 @@
 yo-angular-test
 ===============
+
+test
